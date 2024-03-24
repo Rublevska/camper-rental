@@ -1,13 +1,17 @@
 {
   "files": {
-    "main.css": "/camper-rental/static/css/main.7acaea2f.css",
-    "main.js": "/camper-rental/static/js/main.07d3183d.js",
+    "main.css": "/camper-rental/static/css/main.cd2e038f.css",
+    "main.js": "/camper-rental/static/js/main.ef7986ee.js",
+    "static/media/Inter-SemiBold.ttf": "/camper-rental/static/media/Inter-SemiBold.6058d3da655fb35169c2.ttf",
+    "static/media/Inter-Medium.ttf": "/camper-rental/static/media/Inter-Medium.3f7acfe50aad7ad68548.ttf",
+    "static/media/Inter-Regular.ttf": "/camper-rental/static/media/Inter-Regular.9ca9ba81e9dcaa12b3a1.ttf",
+    "static/media/sprite.svg": "/camper-rental/static/media/sprite.23245ea7317801476abd0a35d87491a4.svg",
     "index.html": "/camper-rental/index.html",
-    "main.7acaea2f.css.map": "/camper-rental/static/css/main.7acaea2f.css.map",
-    "main.07d3183d.js.map": "/camper-rental/static/js/main.07d3183d.js.map"
+    "main.cd2e038f.css.map": "/camper-rental/static/css/main.cd2e038f.css.map",
+    "main.ef7986ee.js.map": "/camper-rental/static/js/main.ef7986ee.js.map"
   },
   "entrypoints": [
-    "static/css/main.7acaea2f.css",
-    "static/js/main.07d3183d.js"
+    "static/css/main.cd2e038f.css",
+    "static/js/main.ef7986ee.js"
   ]
 }
